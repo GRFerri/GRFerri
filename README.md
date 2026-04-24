@@ -58,7 +58,7 @@
   <a href="https://tracker.gg/valorant/profile/riot/CabritoTicudo%237098/overview" target="_blank">
     <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white">
   </a>
-  <a href="https://steamcommunity.com/id/sonsongabriel/" target="_blank">
+  <a href="https://steamcommunity.com/id/FerriVereador/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   </a>
 </p>
